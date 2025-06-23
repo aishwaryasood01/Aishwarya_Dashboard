@@ -14,7 +14,7 @@ This repository showcases my personal project where I designed and developed a H
 - Incorporated insights on Check-outs, No-shows and Weekly performance trends to enable deeper operational understanding.
 - Applied best practices in data modeling, efficient DAX measures and interactive visuals for enhanced storytelling.
 - Designed to support data-driven decision-making in the hospitality sector.
-<a href="https://github.com/aishwaryasood01/Aishwarya_Dashboard/blob/main/HospitalityDashboard.pdf">View Dashboard</a>
+- <a href="https://github.com/aishwaryasood01/Aishwarya_Dashboard/blob/main/HospitalityDashboard.pdf">View Dashboard</a>
 ## Process
 - Verify data for any missing values and anomilies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data format and values used.
