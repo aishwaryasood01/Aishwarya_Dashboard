@@ -14,7 +14,7 @@ This repository showcases my personal project where I designed and developed a H
 - Incorporated insights on Check-outs, No-shows and Weekly performance trends to enable deeper operational understanding.
 - Applied best practices in data modeling, efficient DAX measures and interactive visuals for enhanced storytelling.
 - Designed to support data-driven decision-making in the hospitality sector.
-<a href="https://github.com/aishwaryasood01/Aishwarya_Dashboard/blob/main/HospitalityDashboard.pdf"View Dashboard</a>
+<a href="https://github.com/aishwaryasood01/Aishwarya_Dashboard/blob/main/HospitalityDashboard.pdf">View Dashboard</a>
 ## Process
 - Verify data for any missing values and anomilies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data format and values used.
@@ -22,7 +22,7 @@ This repository showcases my personal project where I designed and developed a H
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 This project reflects my ability to turn raw data into strategic insights using modern BI tools. It's a practical demonstration of my analytical mindset and dashboard development skills.
-##Dashboard
+## Dashboard
 ![image](https://github.com/user-attachments/assets/c231909d-4ad6-4d01-9d97-7106bcf2955d)
 ![image](https://github.com/user-attachments/assets/e9cdaa45-15bf-49da-9506-3624e33ceecc)
 
