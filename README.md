@@ -3,6 +3,7 @@
 This repository showcases my personal project where I designed and developed a Hospitality Analytics Dashboard using Power BI, focusing on key performance metrics relevant to the hotel industry.  
 🔹 Tools Used: Power BI, DAX, Power Query
 ##Dataset used
+- <a href="https://github.com/aishwaryasood01/Aishwarya_Dashboard/blob/main/dim_date.csv">Dataset</a>
 
 - Developed a comprehensive dashboard analyzing Revenue, Occupancy, Cancellations, Bookings and Capacity Utilization.
 - Visualized Weekday vs. Weekend trends, State & Hotel-wise revenue and Room Class breakdowns.
